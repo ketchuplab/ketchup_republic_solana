@@ -1,1 +1,1 @@
-# -ketchup_republic_solana
+# ketchup_republic_solana
